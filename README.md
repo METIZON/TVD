@@ -1,4 +1,3 @@
 # TVD
-TikTok Video Downloader
 
-Simple telegram bot, that will download videos from TikTok without watermarks
+So, idk how, but I lost my production file...
